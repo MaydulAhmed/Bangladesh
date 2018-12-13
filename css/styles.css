@@ -1,0 +1,32 @@
+/*** TAG Selectors***/
+h1 {
+  color: Green;
+  font-size: 80px;
+}
+
+img:hover {
+  background-color: grey;
+}
+
+
+/*** CLASS Selectors***/
+.BD {
+  background-color: purple;
+}
+.IN {
+  background-color: red;
+}
+
+.PK {
+  background-color: yellow;
+}
+
+.circular {
+  border-radius: 20%;
+}
+
+/*** ID Selectors***/
+
+#heading {
+  color: red;
+}
